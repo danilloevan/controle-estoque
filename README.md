@@ -1,4 +1,4 @@
-# Trabalho 1 - JavaScript e Node.js (Automação de Planilhas Excel)
+# Trabalho 2 - Aplicação Fullstack com React e Express
 
 Disciplina: **Linguagem de Programação Script**  
 Tema: **Automação de planilhas Excel**
