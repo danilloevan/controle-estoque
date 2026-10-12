@@ -1,4 +1,12 @@
-# 📦 Sistema de Controle de Estoque
+# Trabalho 1 - JavaScript e Node.js (Automação de Planilhas Excel)
+
+Disciplina: **Linguagem de Programação Script**  
+Tema: **Automação de planilhas Excel**
+Professor: Luis Sérgio da Silva Junior
+Aluno: Danillo Evangelista Cabral
+Matrícula: 387967
+
+## 📦 Sistema de Controle de Estoque
 
 Aplicação full stack desenvolvida para controle, análise e monitoramento de estoque. O sistema processa dados de uma planilha Excel via API REST em **Node.js/Express** e os exibe em um painel interativo em tempo real construído com **React** e **Vite**.
 
