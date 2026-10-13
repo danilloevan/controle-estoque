@@ -1,10 +1,10 @@
 # Trabalho 2 - Aplicação Fullstack com React e Express
 
-Disciplina: **Linguagem de Programação Script**  
-Tema: **Automação de planilhas Excel**
-Professor: Luis Sérgio da Silva Junior
-Aluno: Danillo Evangelista Cabral
-Matrícula: 387967
+- Disciplina: **Linguagem de Programação Script**
+- Tema: **Automação de planilhas Excel**
+- Professor: Luis Sérgio da Silva Junior
+- Aluno: Danillo Evangelista Cabral
+- Matrícula: 387967
 
 ## 📦 Sistema de Controle de Estoque
 
